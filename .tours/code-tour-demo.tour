@@ -1,0 +1,20 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "code tour demo",
+  "steps": [
+    {
+      "title": "Introduction",
+      "description": ""
+    },
+    {
+      "file": "index.html",
+      "description": "H1 Header of the file",
+      "line": 1
+    },
+    {
+      "file": "index.html",
+      "description": "H2 Header of the file",
+      "line": 3
+    }
+  ]
+}
